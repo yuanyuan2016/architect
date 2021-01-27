@@ -1,8 +1,3 @@
-## Welcome to Shawn's store | 欢迎来到逍然的店铺
-
-我喜欢奥特曼、风火轮。
-
-### 技能：
-- 钢琴接近3级；
-- 演讲2级；
-- 跆拳道、围棋、画画都会点儿。
+## Welcome to YuanYuan's pages | 欢迎来到袁源的空间
+分享架构相关知识，欢迎交流。
+email:yuan903@gmail.com
